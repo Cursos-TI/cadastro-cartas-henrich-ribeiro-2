@@ -18,10 +18,6 @@ int main() {
     float densidadeInvertidaA, densidadeInvertidaB; // Densidade Invertida
     float superPoderA, superPoderB;
 
-    //Definição de variaveis para comparação dos atributos das cartas
-    int resultadoPopulacao, resultadoArea, resultadoPIB, resultadoPontosTuristicos,
-    resultadoDensidadePop, ResultadoPIBPerCapita, resultadoSuperPoder;
-
     //Definição variavel opção para o menu
     int opcao1, opcao2;
 
